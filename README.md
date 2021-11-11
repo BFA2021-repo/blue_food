@@ -5,6 +5,8 @@ This repositroy saves processing and visulization scripts for article *Vulnerabi
 ## Repository contents
 
 * /Data/ folder - contain raw/unprocessed database;
+  * 01_raw_data.xlsx - Raw database for further calculation;
+  * 02_ISO_information.csv - Conataining management and production related informations;
 * /Scripts/ folder - contain processing scripts:
   * 00_functions.R - Predefined computation functions;
   * 01_data_preparation.R - spitting databases for further computation;
